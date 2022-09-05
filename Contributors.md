@@ -66,9 +66,11 @@
 - [Programer3](https://github.com/Programer3)
 - [Omar Muhammetkulyyev](https://github.com/https://github.com/Infus3d)
   HarryN
+- [Emanuele Bianchetti](https://github.com/ema-bianchetti)
 - [Tomas Weiskog](https://github.com/Weiskog)
 - [Priyam Agarwal](https://github.com/Priyam183)
 - [Ansari Saad](https://github.com/Saadansariii/)
+- [Erik Esetvontar]
 - [Darshit Solanki](https://github.com/DarshitSolanki04)
 - [Jade Jones] (https://github.com/Jade-Jones-dev)
 - [Steven Noyes](https://github.com/SteveNoyes/)
